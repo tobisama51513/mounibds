@@ -1,9 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 body{
-    background-image: url(m/white\ backgrond.jpg);
-    background-repeat: no-repeat ;
-    background-size: cover;
+    
+    
+    background-color: rgb(233, 103, 103);
+    background-image: url(m/18_08_2024\ 00_31_37.png);
+    background-repeat: repeat-y;
+    background-size: 150%;
+}
+.box-shadow{
+   box-shadow: 5px 5px 10px #555; 
 }
