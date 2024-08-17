@@ -1,4 +1,9 @@
-
-.img{
-    box-shadow: blue;
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(m/white\ backgrond.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
 }
